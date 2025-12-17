@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>My Personal Portfolio.</title>
+</head>
+<body>
+<!-- Navigation -->
+<nav>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#contact">Contact</a></li>
+ <li><a href="#hobby">Hobby</a></li>
+</ul>
+</nav>
+
+<!-- Header -->
+<header id="home">
+<h1>Shrestha Saha Nova</h1>
+<h2>I am a Web Developer</h2>
+<img src="Jerry.png" alt="Jerry" width="700" height="700">
+</header>
+
+<!-- About Section -->
+<section id="about">
+  <h2>About-Me</h2>
+<p>I love my music.I feel life through its melodies.Music is my passion,my journey.
+<br>
+
+Also I'm learning <strong>Full Stack Web Development</strong>.</p>
+<p>Currently studying: <em>HTML, CSS, JavaScript, PHP, React</em>.</p>
+</section>
+
+<!-- Projects -->
+<section id="projects">
+<h2>My Projects</h2>
+<ol>
+<li>Portfolio Website (HTML)</li>
+<li>Recipe Collection (HTML Tables)</li>
+<li>Coming Soon...</li>
+</ol>
+</section>
+
+<!-- Skills Table -->
+<section>
+<h2>My Skills</h2>
+<table border="1">
+<tr>
+<th>Skill</th>
+</tr>
+<tr>
+<td>C</td>
+</tr>
+<tr>
+<td>C++</td>
+</tr>
+<tr>
+<td>HTML</td>
+</tr>
+</table>
+</section>
+
+<!-- Contact -->
+<section id="contact">
+<h2>Contact-Me</h2>
+<p>Email: <a href="shrestha.nova80@gmail.com">shrestha.nova80@gmail.com</a></p>
+<p>GitHub: <a
+href="https://github.com/Shrestha550">github.com/Shrestha550</a></p>
+<p>Instagram: <a href="www.instagram.com">Instagram</a></p>
+<address>Narsingdi,Dhaka,Bangladesh</address>
+</section>
+
+<!-- Hobby-->
+ <section id="hobby">
+  <h3>
+    My-Hobby
+  </h3>
+   <ul>
+    <li>Singing</li>
+    <li>Cooking</li>
+    <li>Travelliing</li>
+    <li>Watching Movie</li>
+  </ul>
+<hr/>
+ </section>
+
+<!-- Footer -->
+<footer>
+<p>©Shrestha.Learning Web Dev.</p>
+</footer>
+</body>
+</html>
